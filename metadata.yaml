@@ -1,0 +1,38 @@
+_repo: Les-manieurs-d-argent-a-Rome-jusqu-a-l-Empire_73948
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Deloume, Antonin
+    alias: Deloume, Antoine
+    birthdate: 1836
+    deathdate: 1911
+    gutenberg_agent_id: '57283'
+    url: http://www.gutenberg.org/2009/agents/57283
+    wikipedia: https://fr.wikipedia.org/wiki/Antonin_Deloume
+description: ''
+edition_note: Deuxième édition, corrigée et augmentée
+gutenberg_issued: '2024-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73948'
+  lccn: '36014106'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k11588320
+pgterms:marc905: 20230304005147delourme
+pgterms:marc906: '1892'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bErnest Thorin, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Banks and banking -- Rome'
+- !lcsh 'Finance -- Rome'
+- !lcsh 'Rome -- Economic conditions'
+- !lcc 'HC'
+- GITenberg
+title: Les manieurs d'argent à Rome jusqu'à l'Empire
+url: http://www.gutenberg.org/ebooks/73948
