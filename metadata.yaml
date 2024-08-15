@@ -1,5 +1,8 @@
 _repo: Les-manieurs-d-argent-a-Rome-jusqu-a-l-Empire_73948
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73948-h/images/cover.jpg
 creator:
   author:
     agent_name: Deloume, Antonin
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57283
     wikipedia: https://fr.wikipedia.org/wiki/Antonin_Deloume
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73948#Les-manieurs-d-argent-a-Rome-jusqu-a-l-Empire
 edition_note: Deuxième édition, corrigée et augmentée
 gutenberg_issued: '2024-06-29'
 gutenberg_type: Text
